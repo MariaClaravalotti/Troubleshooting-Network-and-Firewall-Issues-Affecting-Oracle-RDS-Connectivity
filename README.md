@@ -69,3 +69,5 @@ Application database connectivity → restored
 Monitored stability post-restoration.
 
 <img width="1086" height="172" alt="image" src="https://github.com/user-attachments/assets/ae59c584-53cd-497b-b7f5-90a75403a0f6" />
+<img width="867" height="374" alt="image" src="https://github.com/user-attachments/assets/70076c0b-0da5-4991-b31f-96f8c78ff99b" />
+
